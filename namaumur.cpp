@@ -6,7 +6,7 @@ int main() {
     // deklarasi variabel umur dengan tipe data integer
     int umur;
     // memberikan nilai pada variabel umur
-    umur = 20;
+    umur = 50;
 
     // menampilkan isi string
     cout << "Dejavu" << endl;
